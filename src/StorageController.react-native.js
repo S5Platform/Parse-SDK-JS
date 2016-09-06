@@ -10,7 +10,7 @@
  */
 
 import ParsePromise from './ParsePromise';
-import { AsyncStorage } from 'react-native';
+import { AsyncStorage } from '../../../react-native';
 
 var StorageController = {
   async: 1,
